@@ -1,11 +1,9 @@
 {
-  "name": "search",
+  "name": "server",
   "version": "1.0.0",
   "description": "simple search mern applicaiton",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "server": "nodemon index.js"
+  "scripts": {    
   },
   "author": "anish",  
   "license": "ISC",
@@ -17,7 +15,6 @@
   },
   "devDependencies": {
     "concurrently": "^6.2.1",
-    "morgan": "^1.10.0",
     "nodemon": "^2.0.12"
   }
 }
