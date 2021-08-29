@@ -5,10 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "server": "nodemon index.js",
-    "client": "npm start --prefix client",
-    "dev": "concurrently \"npm run client\" \"npm run server\"",
-    "heroku-postbuild": "cd ../client && npm install && npm run build"
+    "server": "nodemon index.js"
   },
   "author": "anish",  
   "license": "ISC",
