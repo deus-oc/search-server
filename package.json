@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "simple search mern applicaiton",
   "main": "index.js",
-  "scripts": {    
-  },
-  "author": "anish",  
+  "scripts": {},
+  "author": "anish",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
