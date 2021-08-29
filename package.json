@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "simple search mern applicaiton",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "anish",
   "license": "ISC",
   "dependencies": {
